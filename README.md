@@ -1,6 +1,4 @@
 # hello-world
-My first repository.
-
 Hello everyone.
 
 I am a beginner in programming. I am not a programmer, I am simply studying programming as a hobby.
